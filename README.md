@@ -1,5 +1,1 @@
-#my fist commit 
-
-
-First static website commit That displays "WELCOME TO MY FIRST WEB PAGE"
-
+This repo contains Bash scripts that i have Developed in my DevOps journey So far
