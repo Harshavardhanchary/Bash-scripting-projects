@@ -4,11 +4,12 @@ This repo contains Bash scripts that I have Developed in my DevOps journey So fa
 
 This script lists the aws resources.
 Example:
+
 ````bash
   ./aws-resources-list.sh us-east-1 ec2
 ````
- In this example the above command list the ec2 instace in the specified region.
- Note that you have AWS-CLI istalled and configured in the machine you execute this script.
+The above command lists the ec2 instace in the specified region.
+Note that you have AWS-CLI istalled and configured in the machine you execute this script.
 
 
 2. k8s.sh
