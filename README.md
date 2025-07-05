@@ -3,6 +3,7 @@ This repo contains Bash scripts that I have Developed in my DevOps journey So fa
 1. aws-resources-list.sh
 
 This script lists the aws resources.
+
 Example:
 
 ````bash
@@ -14,7 +15,7 @@ Note that you have AWS-CLI istalled and configured in the machine you execute th
 
 2. k8s.sh
 
-This script when executed monitors the kubernetes resources like namespace, nodes and pods at that particualr instance and generates a log file.
+This script when executed monitors the kubernetes resources like namespace, nodes and pods at that particular instance and generates a log file.
 
 ![alt text](<Screenshot 2025-07-01 215916.png>)
 
